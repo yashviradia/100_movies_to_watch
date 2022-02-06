@@ -20,7 +20,7 @@ List of top 100 movies to watch in lifetime made with help of scraping the Empir
 ![80_to_100.png](images/image_2.png)
 
 ### Links
-- Github Repository: 
+- [Github Repository](https://github.com/yashviradia/100_movies_to_watch) 
 
 ## My process
 
